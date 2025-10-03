@@ -1,0 +1,26 @@
+{
+  "name": "NEBULA-MD-LITE",
+  "description": "hey this is NEBULA-MD-LITE whatsapp bot",
+  "logo": "https://files.catbox.moe/tn3ajm.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Add NEBULA-MD-LITE Session ID",
+      "required": true
+    },  
+
+        "MONGODB": {
+      "description": "Put your Mongodb url",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
