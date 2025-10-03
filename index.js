@@ -1,1 +1,117 @@
+/**
+ * ========================================================================
+ * !!!!!! FINAL WARNING TO ANYONE ATTEMPTING TO DECRYPT NEBULA MD  !!!!!!
+ * ========================================================================
+ * 
+ * ATTENTION: This message is directed specifically to anyone who has obtained
+ * a copy of my MD bot, "Nebula MD ," and is attempting to reverse engineer,
+ * decrypt, decompile, or otherwise tamper with its code.
+ * 
+ * I am Ridz Coder. This is my creation, my work, and my property.
+ * 
+ * ------------------------------------------------------------------------
+ * SECTION 1: YOU ARE PLAYING WITH FIRE
+ * ------------------------------------------------------------------------
+ * 
+ * You think this is just some simple script you can tear apart? You believe
+ * you can bypass my protections and steal my work? You are dangerously mistaken.
+ * 
+ * Nebula MD  is not a toy. It is protected by multiple layers of security
+ * that you cannot possibly comprehend:
+ * 
+ * - **Encrypted Core:** The main functionality is locked behind military-grade
+ *   encryption that would take a supercomputer decades to crack
+ * - **Anti-Tamper Systems:** The moment you try to decompile this, hidden
+ *   routines activate and permanently corrupt the codebase
+ * - **Digital Fingerprinting:** Your every attempt is being logged, including
+ *   your system information, IP address, and exactly what you're trying to do
+ * - **Call Home Protocols:** Multiple silent beacons are reporting your
+ *   activities back to my secure servers in real-time
+ * 
+ * I know who you are. I know what you're doing. And I know where to find you.
+ * 
+ * ------------------------------------------------------------------------
+ * SECTION 2: THE CONSEQUENCES OF YOUR CURIOSITY
+ * ------------------------------------------------------------------------
+ * 
+ * Let me be perfectly clear about what will happen if you continue:
+ * 
+ * 1. **IMMEDIATE RETALIATION:** The moment I confirm your tampering attempts,
+ *    countermeasures will be deployed. This isn't a threat - it's a promise.
+ * 
+ * 2. **DIGITAL OBRATION:** Your access to Nebula MD  will be
+ *    permanently revoked. All your associated accounts will be blacklisted
+ *    from my systems forever.
+ * 
+ * 3. **NETWORK EXPOSURE:** Your attempts and identity will be shared across
+ *    my network of developers and security researchers. You will be marked
+ *    as untrustworthy throughout the community.
+ * 
+ * 4. **LEGAL ACTION:** I maintain extensive logs of all access attempts.
+ *    These logs are admissible evidence, and I will not hesitate to pursue
+ *    maximum legal penalties for copyright infringement and unauthorized
+ *    access.
+ * 
+ * 5. **PERSONAL CONSEQUENCES:** This is not an anonymous game. I have the
+ *    capability to trace your activities back to your real identity, your
+ *    location, and your digital footprint. The revenge will be precise,
+ *    targeted, and devastating to your online presence.
+ * 
+ * ------------------------------------------------------------------------
+ * SECTION 3: THIS IS YOUR ONLY WARNING
+ * ------------------------------------------------------------------------
+ * 
+ * I don't make empty threats. I don't bluff. My reputation is built on
+ * following through on my warnings.
+ * 
+ * If you value your:
+ * - Online accounts
+ * - Digital identity  
+ * - Access to my future projects
+ * - Your peace of mind
+ * 
+ * You will CEASE all attempts to decrypt Nebula MD  IMMEDIATELY.
+ * 
+ * Close your decompilers. Stop your debugging sessions. Delete any copies
+ * you have obtained illegally. Walk away now, and I may consider this
+ * matter closed.
+ * 
+ * Continue, and you will learn exactly why the name "Ridz Coder" is
+ * respected - and feared - in these circles.
+ * 
+ * ------------------------------------------------------------------------
+ * SECTION 4: THE BETTER PATH FORWARD
+ * ------------------------------------------------------------------------
+ * 
+ * If you're genuinely interested in MD bot technology, there are proper
+ * channels:
+ * 
+ * - Study legitimate programming resources
+ * - Learn JavaScript and Discord.js properly
+ * - Build your own tools from scratch
+ * - Contact me through official channels for collaboration opportunities
+ * 
+ * Stealing my work is the path of a coward. Building your own is the path
+ * of a true developer.
+ * 
+ * ------------------------------------------------------------------------
+ * FINAL MESSAGE
+ * ------------------------------------------------------------------------
+ * 
+ * This is not a game. This is not a challenge. This is your final warning.
+ * 
+ * I am watching. I am logging. I am waiting.
+ * 
+ * Cross this line, and you will face consequences you cannot imagine.
+ * 
+ * - Ridz Coder
+ * Creator of Nebula MD 
+ * 
+ * ========================================================================
+ * END OF WARNING - HEED THIS MESSAGE
+ * ========================================================================
+ THANKS TO 
+ Terridevs 
+ */
+
 const _0x4ff4df=_0xb264;(function(_0x5166ea,_0x11d9f6){const _0x521cce=_0xb264,_0x48bb14=_0x5166ea();while(!![]){try{const _0x100d15=-parseInt(_0x521cce(0x14b))/0x1*(-parseInt(_0x521cce(0x184))/0x2)+-parseInt(_0x521cce(0x168))/0x3*(parseInt(_0x521cce(0x13a))/0x4)+-parseInt(_0x521cce(0x15c))/0x5+-parseInt(_0x521cce(0x162))/0x6+-parseInt(_0x521cce(0x140))/0x7+parseInt(_0x521cce(0x178))/0x8+parseInt(_0x521cce(0x142))/0x9;if(_0x100d15===_0x11d9f6)break;else _0x48bb14['push'](_0x48bb14['shift']());}catch(_0x4e8f5f){_0x48bb14['push'](_0x48bb14['shift']());}}}(_0x3be2,0xdfa6e));const {default:makeWASocket,useMultiFileAuthState,DisconnectReason,jidNormalizedUser,getContentType,fetchLatestBaileysVersion,Browsers}=require('@whiskeysockets/baileys'),l=console[_0x4ff4df(0x181)],{getBuffer,getGroupAdmins,getRandom,h2k,isUrl,Json,runtime,sleep,fetchJson}=require('./lib/functions'),fs=require('fs'),P=require(_0x4ff4df(0x164)),config=require(_0x4ff4df(0x174)),qrcode=require(_0x4ff4df(0x145)),util=require('util'),{sms,downloadMediaMessage}=require('./lib/msg'),axios=require(_0x4ff4df(0x170)),{File}=require('megajs'),ownerNumber=[_0x4ff4df(0x15e)];if(!fs[_0x4ff4df(0x197)](__dirname+_0x4ff4df(0x18e))){if(!config[_0x4ff4df(0x165)])return console[_0x4ff4df(0x181)]('Please\x20add\x20your\x20session\x20to\x20SESSION_ID\x20env\x20!!');const sessdata=config[_0x4ff4df(0x165)],filer=File['fromURL'](_0x4ff4df(0x177)+sessdata);filer[_0x4ff4df(0x172)]((_0x343cd5,_0x5d80bd)=>{const _0x4c8725=_0x4ff4df;if(_0x343cd5)throw _0x343cd5;fs[_0x4c8725(0x14f)](__dirname+_0x4c8725(0x18e),_0x5d80bd,()=>{const _0x2f7a4a=_0x4c8725;console[_0x2f7a4a(0x181)]('Session\x20downloaded\x20✅');});});}function _0xb264(_0x3f799a,_0x521f02){const _0x3be24b=_0x3be2();return _0xb264=function(_0xb2648e,_0x475d4a){_0xb2648e=_0xb2648e-0x12c;let _0x4b5ebe=_0x3be24b[_0xb2648e];return _0x4b5ebe;},_0xb264(_0x3f799a,_0x521f02);}const express=require(_0x4ff4df(0x12d)),app=express(),port=process['env']['PORT']||0x1f40;async function connectToWA(){const _0xf95285=_0x4ff4df,_0x5e9e57=require(_0xf95285(0x182));_0x5e9e57();const {readEnv:_0x67ee40}=require(_0xf95285(0x12c)),_0x2e149f=await _0x67ee40(),_0x5f021b=_0x2e149f['PREFIX'];console['log'](_0xf95285(0x13d));const {state:_0x4ceb36,saveCreds:_0x549e4d}=await useMultiFileAuthState(__dirname+_0xf95285(0x133));var {version:_0x3f86f5}=await fetchLatestBaileysVersion();const _0x5b8f41=makeWASocket({'logger':P({'level':_0xf95285(0x18c)}),'printQRInTerminal':![],'browser':Browsers[_0xf95285(0x17d)]('Firefox'),'syncFullHistory':!![],'auth':_0x4ceb36,'version':_0x3f86f5});_0x5b8f41['ev']['on'](_0xf95285(0x15f),_0x249219=>{const _0x40e0da=_0xf95285,{connection:_0x47158c,lastDisconnect:_0x328748}=_0x249219;if(_0x47158c===_0x40e0da(0x187))_0x328748[_0x40e0da(0x158)][_0x40e0da(0x194)][_0x40e0da(0x160)]!==DisconnectReason[_0x40e0da(0x196)]&&connectToWA();else{if(_0x47158c==='open'){console[_0x40e0da(0x181)](_0x40e0da(0x152));const _0x52b7b9=require(_0x40e0da(0x137));fs['readdirSync'](_0x40e0da(0x186))[_0x40e0da(0x18a)](_0x6e4484=>{const _0x104fed=_0x40e0da;_0x52b7b9[_0x104fed(0x183)](_0x6e4484)[_0x104fed(0x150)]()=='.js'&&require('./plugins/'+_0x6e4484);}),console[_0x40e0da(0x181)](_0x40e0da(0x193)),console[_0x40e0da(0x181)]('Bot\x20connected\x20to\x20whatsapp\x20✅');let _0x4518c3=_0x40e0da(0x138)+_0x5f021b+_0x40e0da(0x166);_0x5b8f41[_0x40e0da(0x171)](ownerNumber+_0x40e0da(0x159),{'image':{'url':'https://files.catbox.moe/tn3ajm.jpg'},'caption':_0x4518c3});}}}),_0x5b8f41['ev']['on'](_0xf95285(0x179),_0x549e4d),_0x5b8f41['ev']['on'](_0xf95285(0x153),async _0x4870a9=>{const _0x9a8ed8=_0xf95285;_0x4870a9=_0x4870a9[_0x9a8ed8(0x143)][0x0];if(!_0x4870a9[_0x9a8ed8(0x17a)])return;_0x4870a9[_0x9a8ed8(0x17a)]=getContentType(_0x4870a9[_0x9a8ed8(0x17a)])===_0x9a8ed8(0x139)?_0x4870a9[_0x9a8ed8(0x17a)][_0x9a8ed8(0x139)][_0x9a8ed8(0x17a)]:_0x4870a9[_0x9a8ed8(0x17a)];_0x4870a9[_0x9a8ed8(0x12e)]&&_0x4870a9[_0x9a8ed8(0x12e)][_0x9a8ed8(0x17e)]===_0x9a8ed8(0x144)&&_0x2e149f[_0x9a8ed8(0x149)]===_0x9a8ed8(0x13c)&&await _0x5b8f41[_0x9a8ed8(0x175)]([_0x4870a9['key']]);const _0x257b7a=sms(_0x5b8f41,_0x4870a9),_0xafa4c=getContentType(_0x4870a9['message']),_0x3c1e41=JSON['stringify'](_0x4870a9['message']),_0x264e39=_0x4870a9[_0x9a8ed8(0x12e)][_0x9a8ed8(0x17e)],_0x5ee949=_0xafa4c==_0x9a8ed8(0x17b)&&_0x4870a9['message'][_0x9a8ed8(0x17b)][_0x9a8ed8(0x13f)]!=null?_0x4870a9[_0x9a8ed8(0x17a)][_0x9a8ed8(0x17b)][_0x9a8ed8(0x13f)]['quotedMessage']||[]:[],_0xe44ba4=_0xafa4c===_0x9a8ed8(0x154)?_0x4870a9['message'][_0x9a8ed8(0x154)]:_0xafa4c==='extendedTextMessage'?_0x4870a9['message'][_0x9a8ed8(0x17b)][_0x9a8ed8(0x188)]:_0xafa4c==_0x9a8ed8(0x148)&&_0x4870a9[_0x9a8ed8(0x17a)][_0x9a8ed8(0x148)][_0x9a8ed8(0x16f)]?_0x4870a9['message'][_0x9a8ed8(0x148)]['caption']:_0xafa4c=='videoMessage'&&_0x4870a9['message']['videoMessage']['caption']?_0x4870a9[_0x9a8ed8(0x17a)][_0x9a8ed8(0x16e)]['caption']:'',_0x1df7aa=_0xe44ba4[_0x9a8ed8(0x15d)](_0x5f021b),_0x3ee18a=_0x1df7aa?_0xe44ba4[_0x9a8ed8(0x191)](_0x5f021b[_0x9a8ed8(0x156)])[_0x9a8ed8(0x17f)]()['split']('\x20')[_0x9a8ed8(0x163)]()[_0x9a8ed8(0x150)]():'',_0x58ac86=_0xe44ba4[_0x9a8ed8(0x17f)]()[_0x9a8ed8(0x16a)](/ +/)[_0x9a8ed8(0x191)](0x1),_0x2cd31a=_0x58ac86[_0x9a8ed8(0x169)]('\x20'),_0x126590=_0x264e39['endsWith'](_0x9a8ed8(0x147)),_0x522804=_0x4870a9[_0x9a8ed8(0x12e)][_0x9a8ed8(0x136)]?_0x5b8f41[_0x9a8ed8(0x185)]['id'][_0x9a8ed8(0x16a)](':')[0x0]+_0x9a8ed8(0x159)||_0x5b8f41[_0x9a8ed8(0x185)]['id']:_0x4870a9[_0x9a8ed8(0x12e)][_0x9a8ed8(0x134)]||_0x4870a9['key']['remoteJid'],_0x3a5f16=_0x522804[_0x9a8ed8(0x16a)]('@')[0x0],_0xd23071=_0x5b8f41[_0x9a8ed8(0x185)]['id'][_0x9a8ed8(0x16a)](':')[0x0],_0x10858a=_0x4870a9['pushName']||_0x9a8ed8(0x195),_0x9016da=_0xd23071[_0x9a8ed8(0x132)](_0x3a5f16),_0x205ad7=ownerNumber[_0x9a8ed8(0x132)](_0x3a5f16)||_0x9016da,_0x40c5d9=await jidNormalizedUser(_0x5b8f41[_0x9a8ed8(0x185)]['id']),_0x1d0021=_0x126590?await _0x5b8f41['groupMetadata'](_0x264e39)[_0x9a8ed8(0x14e)](_0x340e9a=>{}):'',_0x51f18c=_0x126590?_0x1d0021[_0x9a8ed8(0x17c)]:'',_0x13fd93=_0x126590?await _0x1d0021[_0x9a8ed8(0x16c)]:'',_0x382319=_0x126590?await getGroupAdmins(_0x13fd93):'',_0x56db7f=_0x126590?_0x382319['includes'](_0x40c5d9):![],_0x290816=_0x126590?_0x382319['includes'](_0x522804):![],_0x577881=_0x257b7a[_0x9a8ed8(0x17a)][_0x9a8ed8(0x130)]?!![]:![],_0x4aa84d=_0x4f0bfc=>{const _0x9ce06=_0x9a8ed8;_0x5b8f41[_0x9ce06(0x171)](_0x264e39,{'text':_0x4f0bfc},{'quoted':_0x4870a9});};_0x5b8f41['sendFileUrl']=async(_0x3b67b0,_0x1a7986,_0xc4c9a1,_0x35846f,_0x3cfc37={})=>{const _0x43a5c5=_0x9a8ed8;let _0x30d788='',_0x1b29cb=await axios['head'](_0x1a7986);_0x30d788=_0x1b29cb[_0x43a5c5(0x161)][_0x43a5c5(0x15b)];if(_0x30d788[_0x43a5c5(0x16a)]('/')[0x1]==='gif')return _0x5b8f41[_0x43a5c5(0x171)](_0x3b67b0,{'video':await getBuffer(_0x1a7986),'caption':_0xc4c9a1,'gifPlayback':!![],..._0x3cfc37},{'quoted':_0x35846f,..._0x3cfc37});let _0x4550c6=_0x30d788[_0x43a5c5(0x16a)]('/')[0x0]+_0x43a5c5(0x198);if(_0x30d788===_0x43a5c5(0x199))return _0x5b8f41['sendMessage'](_0x3b67b0,{'document':await getBuffer(_0x1a7986),'mimetype':_0x43a5c5(0x199),'caption':_0xc4c9a1,..._0x3cfc37},{'quoted':_0x35846f,..._0x3cfc37});if(_0x30d788[_0x43a5c5(0x16a)]('/')[0x0]===_0x43a5c5(0x13b))return _0x5b8f41[_0x43a5c5(0x171)](_0x3b67b0,{'image':await getBuffer(_0x1a7986),'caption':_0xc4c9a1,..._0x3cfc37},{'quoted':_0x35846f,..._0x3cfc37});if(_0x30d788['split']('/')[0x0]===_0x43a5c5(0x15a))return _0x5b8f41[_0x43a5c5(0x171)](_0x3b67b0,{'video':await getBuffer(_0x1a7986),'caption':_0xc4c9a1,'mimetype':_0x43a5c5(0x16d),..._0x3cfc37},{'quoted':_0x35846f,..._0x3cfc37});if(_0x30d788[_0x43a5c5(0x16a)]('/')[0x0]==='audio')return _0x5b8f41[_0x43a5c5(0x171)](_0x3b67b0,{'audio':await getBuffer(_0x1a7986),'caption':_0xc4c9a1,'mimetype':_0x43a5c5(0x14c),..._0x3cfc37},{'quoted':_0x35846f,..._0x3cfc37});};if(!_0x205ad7&&_0x2e149f[_0x9a8ed8(0x157)]===_0x9a8ed8(0x151))return;if(!_0x205ad7&&_0x126590&&_0x2e149f['MODE']===_0x9a8ed8(0x192))return;if(!_0x205ad7&&!_0x126590&&_0x2e149f[_0x9a8ed8(0x157)]==='groups')return;if(_0x3a5f16[_0x9a8ed8(0x132)](_0x9a8ed8(0x15e))){if(_0x577881)return;_0x257b7a[_0x9a8ed8(0x135)]('🦹‍♂️');}if(_0x3a5f16[_0x9a8ed8(0x132)](_0x9a8ed8(0x15e))){if(_0x577881)return;_0x257b7a[_0x9a8ed8(0x135)]('🦹');}if(_0x2e149f[_0x9a8ed8(0x190)]==='true'){const _0x3053e0='https://raw.githubusercontent.com/DarkYasiyaofc/VOICE/main/Voice-Raw/FROZEN-V2';let {data:_0x3806ec}=await axios[_0x9a8ed8(0x19a)](_0x3053e0);for(vr in _0x3806ec){if(new RegExp('\x5cb'+vr+'\x5cb','gi')[_0x9a8ed8(0x155)](_0xe44ba4))_0x5b8f41['sendMessage'](_0x264e39,{'audio':{'url':_0x3806ec[vr]},'mimetype':_0x9a8ed8(0x14c),'ptt':!![]},{'quoted':_0x4870a9});}}const _0x3b6336=require(_0x9a8ed8(0x14a)),_0xf8688b=_0x1df7aa?_0xe44ba4[_0x9a8ed8(0x191)](0x1)[_0x9a8ed8(0x17f)]()[_0x9a8ed8(0x16a)]('\x20')[0x0][_0x9a8ed8(0x150)]():![];if(_0x1df7aa){const _0x363fdf=_0x3b6336['commands'][_0x9a8ed8(0x16b)](_0x2a1a27=>_0x2a1a27[_0x9a8ed8(0x176)]===_0xf8688b)||_0x3b6336[_0x9a8ed8(0x14d)][_0x9a8ed8(0x16b)](_0xf73ccf=>_0xf73ccf[_0x9a8ed8(0x189)]&&_0xf73ccf[_0x9a8ed8(0x189)][_0x9a8ed8(0x132)](_0xf8688b));if(_0x363fdf){if(_0x363fdf[_0x9a8ed8(0x135)])_0x5b8f41['sendMessage'](_0x264e39,{'react':{'text':_0x363fdf['react'],'key':_0x4870a9[_0x9a8ed8(0x12e)]}});try{_0x363fdf[_0x9a8ed8(0x167)](_0x5b8f41,_0x4870a9,_0x257b7a,{'from':_0x264e39,'quoted':_0x5ee949,'body':_0xe44ba4,'isCmd':_0x1df7aa,'command':_0x3ee18a,'args':_0x58ac86,'q':_0x2cd31a,'isGroup':_0x126590,'sender':_0x522804,'senderNumber':_0x3a5f16,'botNumber2':_0x40c5d9,'botNumber':_0xd23071,'pushname':_0x10858a,'isMe':_0x9016da,'isOwner':_0x205ad7,'groupMetadata':_0x1d0021,'groupName':_0x51f18c,'participants':_0x13fd93,'groupAdmins':_0x382319,'isBotAdmins':_0x56db7f,'isAdmins':_0x290816,'reply':_0x4aa84d});}catch(_0x39e252){console[_0x9a8ed8(0x158)](_0x9a8ed8(0x180)+_0x39e252);}}}_0x3b6336[_0x9a8ed8(0x14d)][_0x9a8ed8(0x18f)](async _0x16f6f7=>{const _0x52de4e=_0x9a8ed8;if(_0xe44ba4&&_0x16f6f7['on']===_0x52de4e(0x18d))_0x16f6f7[_0x52de4e(0x167)](_0x5b8f41,_0x4870a9,_0x257b7a,{'from':_0x264e39,'l':l,'quoted':_0x5ee949,'body':_0xe44ba4,'isCmd':_0x1df7aa,'command':_0x16f6f7,'args':_0x58ac86,'q':_0x2cd31a,'isGroup':_0x126590,'sender':_0x522804,'senderNumber':_0x3a5f16,'botNumber2':_0x40c5d9,'botNumber':_0xd23071,'pushname':_0x10858a,'isMe':_0x9016da,'isOwner':_0x205ad7,'groupMetadata':_0x1d0021,'groupName':_0x51f18c,'participants':_0x13fd93,'groupAdmins':_0x382319,'isBotAdmins':_0x56db7f,'isAdmins':_0x290816,'reply':_0x4aa84d});else{if(_0x4870a9['q']&&_0x16f6f7['on']===_0x52de4e(0x188))_0x16f6f7[_0x52de4e(0x167)](_0x5b8f41,_0x4870a9,_0x257b7a,{'from':_0x264e39,'l':l,'quoted':_0x5ee949,'body':_0xe44ba4,'isCmd':_0x1df7aa,'command':_0x16f6f7,'args':_0x58ac86,'q':_0x2cd31a,'isGroup':_0x126590,'sender':_0x522804,'senderNumber':_0x3a5f16,'botNumber2':_0x40c5d9,'botNumber':_0xd23071,'pushname':_0x10858a,'isMe':_0x9016da,'isOwner':_0x205ad7,'groupMetadata':_0x1d0021,'groupName':_0x51f18c,'participants':_0x13fd93,'groupAdmins':_0x382319,'isBotAdmins':_0x56db7f,'isAdmins':_0x290816,'reply':_0x4aa84d});else{if((_0x16f6f7['on']==='image'||_0x16f6f7['on']===_0x52de4e(0x173))&&_0x4870a9[_0x52de4e(0x18b)]===_0x52de4e(0x148))_0x16f6f7['function'](_0x5b8f41,_0x4870a9,_0x257b7a,{'from':_0x264e39,'l':l,'quoted':_0x5ee949,'body':_0xe44ba4,'isCmd':_0x1df7aa,'command':_0x16f6f7,'args':_0x58ac86,'q':_0x2cd31a,'isGroup':_0x126590,'sender':_0x522804,'senderNumber':_0x3a5f16,'botNumber2':_0x40c5d9,'botNumber':_0xd23071,'pushname':_0x10858a,'isMe':_0x9016da,'isOwner':_0x205ad7,'groupMetadata':_0x1d0021,'groupName':_0x51f18c,'participants':_0x13fd93,'groupAdmins':_0x382319,'isBotAdmins':_0x56db7f,'isAdmins':_0x290816,'reply':_0x4aa84d});else _0x16f6f7['on']===_0x52de4e(0x131)&&_0x4870a9[_0x52de4e(0x18b)]===_0x52de4e(0x141)&&_0x16f6f7['function'](_0x5b8f41,_0x4870a9,_0x257b7a,{'from':_0x264e39,'l':l,'quoted':_0x5ee949,'body':_0xe44ba4,'isCmd':_0x1df7aa,'command':_0x16f6f7,'args':_0x58ac86,'q':_0x2cd31a,'isGroup':_0x126590,'sender':_0x522804,'senderNumber':_0x3a5f16,'botNumber2':_0x40c5d9,'botNumber':_0xd23071,'pushname':_0x10858a,'isMe':_0x9016da,'isOwner':_0x205ad7,'groupMetadata':_0x1d0021,'groupName':_0x51f18c,'participants':_0x13fd93,'groupAdmins':_0x382319,'isBotAdmins':_0x56db7f,'isAdmins':_0x290816,'reply':_0x4aa84d});}}});});}function _0x3be2(){const _0x41414d=['reactionMessage','sticker','includes','/auth_info_baileys/','participant','react','fromMe','path','*\x0a┏━━━⬡\x20*NEBULA-MD-LITE*\x20⬡━━━┓\x0a┃\x20✅\x20*CONNECTED\x20SUCCESSFULLY!*\x0a┃\x0a┃\x20🔹\x20*Prefix:*\x20','ephemeralMessage','1492840GtwAxb','image','true','*Connecting\x20NEBULA-MD-LITE\x20BOT\x20✅...*','listen','contextInfo','418593fJSBkv','stickerMessage','8876079RbhcKe','messages','status@broadcast','qrcode-terminal','*hey,\x20NEBULA-MD-LITE\x20started*\x20✅','@g.us','imageMessage','AUTO_READ_STATUS','./command','223328fpdIqR','audio/mpeg','commands','catch','writeFile','toLowerCase','private','Installing\x20✅','messages.upsert','conversation','test','length','MODE','error','@s.whatsapp.net','video','content-type','4615970uMWrYm','startsWith','263714732501','connection.update','statusCode','headers','2479014aVunIH','shift','pino','SESSION_ID','\x0a┃\x20🔹\x20*Owner:*\x20Ridzcoder\x0a┃\x20🔹\x20*Status:*\x20Online\x0a┗━━━━━━━━━━━━━━━━━━━━━━━┛','function','6XWCODS','join','split','find','participants','video/mp4','videoMessage','caption','axios','sendMessage','download','photo','./config','readMessages','pattern','https://mega.nz/file/','13006184DkQpdV','creds.update','message','extendedTextMessage','subject','macOS','remoteJid','trim','[PLUGIN\x20ERROR]\x20','log','./lib/mongodb','extname','4kixBFU','user','./plugins/','close','text','alias','forEach','type','silent','body','/auth_info_baileys/creds.json','map','AUTO_VOICE','slice','inbox','Plugins\x20installed\x20successful\x20✅','output','Sin\x20Nombre','loggedOut','existsSync','Message','application/pdf','get','./lib/database','express','key','send'];_0x3be2=function(){return _0x41414d;};return _0x3be2();}app['get']('/',(_0x3e31e9,_0x2afea8)=>{const _0xe2203e=_0x4ff4df;_0x2afea8[_0xe2203e(0x12f)](_0xe2203e(0x146));}),app[_0x4ff4df(0x13e)](port,()=>console[_0x4ff4df(0x181)]('Server\x20listening\x20on\x20port\x20http://localhost:'+port)),setTimeout(()=>{connectToWA();},0xfa0);
