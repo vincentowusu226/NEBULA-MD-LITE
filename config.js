@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || "Your session id",
+  SESSION_ID: process.env.SESSION_ID || "2yxHSZCZ#jMY1ceSs_vTCl6JdYKzA11fDKXRha31A4ibtxeonwAw",
   MONGODB: process.env.MONGODB || "your mongodb",
 
   // ✅ you can add more config values here
